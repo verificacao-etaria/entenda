@@ -71,6 +71,7 @@ Nessa opção, a empresa **não receberia seus documentos, sua biometria nem sua
 Ela receberia apenas a confirmação do que precisa saber para aquele caso: por exemplo, se você está ou não acima da idade exigida.
 
 ![Comparação entre modelo invasivo e modelo com menos dados](assets/img/info_h.png)
+*Comparação simplificada entre um modelo invasivo de verificação e um modelo com menor compartilhamento de dados.*
 
 A lógica é direta: se o Estado já possui os dados necessários para essa checagem, a verificação pode ser feita com **menos compartilhamento**, **menos exposição** e **menos risco** para o cidadão.
 
