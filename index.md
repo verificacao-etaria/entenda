@@ -56,8 +56,8 @@ Isso significa duas coisas importantes:
 1. **Apoiar uma ideia não cria uma lei automaticamente.**
 2. **Mesmo que a ideia avance, o texto final de um eventual projeto não fica nas mãos do autor da ideia.**
 
-**Link da ideia:** [COLE AQUI O LINK DA IDEIA LEGISLATIVA]  
-**Prazo para apoiar:** [COLE AQUI A DATA FINAL]
+**Link da ideia:** [LINK DA IDEIA LEGISLATIVA]  
+**Prazo para apoiar:** [DATA FINAL]
 
 ---
 
@@ -311,7 +311,7 @@ Se você acha que isso merece ser debatido, ajudar significa:
 A verdade é simples:  
 sem esforço coletivo, uma ideia assim pode morrer antes mesmo de começar a ser discutida de verdade.
 
-**Apoie aqui:** [COLE AQUI O LINK DA IDEIA LEGISLATIVA]  
+**Apoie aqui:** [LINK DA IDEIA LEGISLATIVA]  
 **Prazo final:** [COLE AQUI A DATA]
 
 ---
