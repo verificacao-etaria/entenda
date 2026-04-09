@@ -316,7 +316,7 @@ A verdade é simples:
 sem esforço coletivo, uma ideia assim pode morrer antes mesmo de começar a ser discutida de verdade.
 
 **Link da ideia legislativa:**  
-👉 [https://www12.senado.leg.br/ecidadania/visualizacaoideia?id=217432](https://www12.senado.leg.br/ecidadania/visualizacaoideia?id=217432)
+[https://www12.senado.leg.br/ecidadania/visualizacaoideia?id=217432](https://www12.senado.leg.br/ecidadania/visualizacaoideia?id=217432)
 
 **Prazo final:** 07/08/2026
 
