@@ -57,6 +57,7 @@ Isso significa duas coisas importantes:
 2. **Mesmo que a ideia avance, o texto final de um eventual projeto não fica nas mãos do autor da ideia.**
 
 [Apoie a ideia legislativa no e‑Cidadania](https://www12.senado.leg.br/ecidadania/visualizacaoideia?id=217432)
+
 **Prazo para apoiar:** 07/08/2026
 
 ---
@@ -315,7 +316,8 @@ A verdade é simples:
 sem esforço coletivo, uma ideia assim pode morrer antes mesmo de começar a ser discutida de verdade.
 
 **Link da ideia legislativa:**  
-👉 https://www12.senado.leg.br/ecidadania/visualizacaoideia?id=217432
+👉 [https://www12.senado.leg.br/ecidadania/visualizacaoideia?id=217432](https://www12.senado.leg.br/ecidadania/visualizacaoideia?id=217432)
+
 **Prazo final:** 07/08/2026
 
 ---
