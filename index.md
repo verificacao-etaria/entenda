@@ -56,9 +56,7 @@ Isso significa duas coisas importantes:
 1. **Apoiar uma ideia não cria uma lei automaticamente.**
 2. **Mesmo que a ideia avance, o texto final de um eventual projeto não fica nas mãos do autor da ideia.**
 
-**Link da ideia:** [LINK DA IDEIA LEGISLATIVA]
 [Apoie a ideia legislativa no e‑Cidadania](https://www12.senado.leg.br/ecidadania/visualizacaoideia?id=217432)
-
 **Prazo para apoiar:** 07/08/2026
 
 ---
@@ -269,11 +267,14 @@ A resposta a esse tipo de risco precisa ser proporcional.
 
 ---
 
-## Quem pode resistir a isso
+## Quem pode resistir a essa ideia
+
+Acredito que existirá resistência de algumas partes a uma ideia desse tipo.
+Alguns por motivações coerentes e/ou técnicas.
+Mas também vejo outros riscos.
 
 Este bloco não é uma acusação contra pessoas ou empresas específicas.
-
-É apenas uma leitura sóbria do tema.
+Apenas uma leitura sóbria do tema.
 
 Uma proposta como essa pode enfrentar resistência de quem:
 
@@ -313,14 +314,15 @@ Se você acha que isso merece ser debatido, ajudar significa:
 A verdade é simples:  
 sem esforço coletivo, uma ideia assim pode morrer antes mesmo de começar a ser discutida de verdade.
 
-**Apoie aqui:** [LINK DA IDEIA LEGISLATIVA]  
-**Prazo final:** [COLE AQUI A DATA]
+**Link da ideia legislativa:**  
+👉 https://www12.senado.leg.br/ecidadania/visualizacaoideia?id=217432
+**Prazo final:** 07/08/2026
 
 ---
 
 ## Transparência final
 
-Este site não promete resultado.
+Este documento não é uma promessa de resultado.
 
 Ele não promete que a ideia será aprovada.  
 Não promete que o Senado concordará com ela.  
