@@ -56,8 +56,10 @@ Isso significa duas coisas importantes:
 1. **Apoiar uma ideia não cria uma lei automaticamente.**
 2. **Mesmo que a ideia avance, o texto final de um eventual projeto não fica nas mãos do autor da ideia.**
 
-**Link da ideia:** [LINK DA IDEIA LEGISLATIVA]  
-**Prazo para apoiar:** [DATA FINAL]
+**Link da ideia:** [LINK DA IDEIA LEGISLATIVA]
+[Apoie a ideia legislativa no e‑Cidadania](https://www12.senado.leg.br/ecidadania/visualizacaoideia?id=217432)
+
+**Prazo para apoiar:** 07/08/2026
 
 ---
 
